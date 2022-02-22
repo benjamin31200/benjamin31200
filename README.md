@@ -6,7 +6,7 @@ https://user-images.githubusercontent.com/90443700/155125845-4e31e490-105c-43e7-
 # Mon profil
 ***Développeur web junior*** 
 
-alumni wilders ➡️ Toulouse. [Wild Code School](https://github.com/WildCodeSchool)
+alumni wilders ➡️ Toulouse (09/2021 - 02/2022). [Wild Code School](https://github.com/WildCodeSchool)
 
 **Activement** à la recherche d'un stage ou d'une alternance !
 
