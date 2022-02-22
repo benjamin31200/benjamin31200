@@ -52,6 +52,6 @@ alumni wilders ➡️ Toulouse (09/2021 - 02/2022). [Wild Code School](https://g
 
 - 📫 Mon mail: benjaminDeneux@hotmail.com 
 
-[<img display="flex" justify-content="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/benjamin31200)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/benjamin-deneux-2aa224221//)
+[<img display="flex" justify-content="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/benjamin31200)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/benjamin-deneux-2aa224221/)
 
 ***Merci de votre visite et à bientot ! 🧑‍💻***
