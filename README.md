@@ -4,7 +4,7 @@ https://user-images.githubusercontent.com/90443700/155125845-4e31e490-105c-43e7-
 ***Bonne visite !***
 
 # Mon profil
-***Développeur web junior*** 
+***Développeur web*** 
 
 alumni wilders ➡️ Toulouse (09/2021 - 02/2022). [Wild Code School](https://github.com/WildCodeSchool)
 
