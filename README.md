@@ -12,14 +12,14 @@ alumni wilders ➡️ Toulouse (09/2021 - 02/2022). [Wild Code School](https://g
 
  ## 
  
-- 🔭 Sur mon temps libre, je travaille actuellement sur deux projets :
+- 🔭 Sur mon temps libre, je travaille actuellement sur un projet :
 <details><summary>projet 1</summary>
 <p>
   
 [Consultation des données météos de la ville de son choix](https://github.com/benjamin31200/API-Weatherstack)
   
-  - [ ] En cours de développement
-  - [x] En attente
+  - [x] En cours de développement
+  - [ ] En attente
 </p>
 </details>
 </details>
