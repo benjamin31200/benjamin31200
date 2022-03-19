@@ -18,22 +18,14 @@ alumni wilders ➡️ Toulouse (09/2021 - 02/2022). [Wild Code School](https://g
   
 [Consultation des données météos de la ville de son choix](https://github.com/benjamin31200/API-Weatherstack)
   
-  - [x] En cours de développement
-  - [ ] En attente
-</p>
-</details>
-
-<details><summary>projet 2</summary>
-<p>
-  
-[Site d'échange entre internaute sur les animaux de compagnie](https://github.com/benjamin31200/project-Noel)
-  
   - [ ] En cours de développement
   - [x] En attente
 </p>
 </details>
+</details>
 
-- 🌱 Je suis intéréssé par l'apprentissage de React, node.js et Angular 
+Je me forme en ce moment même en autodidacte à React <img width="100" height="60" src="https://th.bing.com/th/id/OIP.YCxnS_5txtkdvzbwQgeibAHaEK?w=321&h=180&c=7&r=0&o=5&pid=1.7" />
+- 🌱 Je suis intéréssé par l'apprentissage de node.js et Angular 
 
 ## Langages, outils et statistiques:
 
