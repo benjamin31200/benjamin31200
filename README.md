@@ -8,8 +8,6 @@ https://user-images.githubusercontent.com/90443700/155125845-4e31e490-105c-43e7-
 
 alumni wilders ➡️ Toulouse (09/2021 - 02/2022). [Wild Code School](https://github.com/WildCodeSchool)
 
-**Activement** à la recherche d'un stage, d'une alternance ou tout autre opportunité !
-
  ## 
  
 - 🔭 Sur mon temps libre, je travaille actuellement sur un projet :
@@ -18,8 +16,8 @@ alumni wilders ➡️ Toulouse (09/2021 - 02/2022). [Wild Code School](https://g
   
 [Consultation des données météos de la ville de son choix](https://github.com/benjamin31200/API-Weatherstack)
   
-  - [x] En cours de développement
-  - [ ] En attente
+  - [ ] En cours de développement
+  - [X] En attente
 </p>
 </details>
 </details>
