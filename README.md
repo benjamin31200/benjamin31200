@@ -23,7 +23,7 @@ alumni wilders ➡️ Toulouse (09/2021 - 02/2022). [Wild Code School](https://g
 </details>
 
 Je me forme en ce moment même en autodidacte à React <img width="100" height="60" src="https://th.bing.com/th/id/OIP.YCxnS_5txtkdvzbwQgeibAHaEK?w=321&h=180&c=7&r=0&o=5&pid=1.7" />
-- 🌱 Je suis intéréssé par l'apprentissage de node.js et Angular 
+- 🌱 Et pourquoi pas me pencher sur Python à l'avenir si les projets me le demandent.  
 
 ## Langages, outils et statistiques:
 
