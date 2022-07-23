@@ -10,7 +10,7 @@ alumni wilders ➡️ Toulouse (09/2021 - 02/2022). [Wild Code School](https://g
 
  ## 
  
-- 🔭 Sur mon temps libre, je me forme en ce moment même en autodidacte à React <img width="100" height="60" src="https://th.bing.com/th/id/OIP.YCxnS_5txtkdvzbwQgeibAHaEK?w=321&h=180&c=7&r=0&o=5&pid=1.7" /> <img width="100" height="60" src="https://www.brainvire.com/wp/wp-content/uploads/2016/05/top-7-benefits-of-using-node-js-in-retail-industry-that-cannot-be-ignored.jpg" />
+- 🔭 Je me forme en ce moment même en autodidacte à React, nodeJS et express <img width="100" height="60" src="https://th.bing.com/th/id/OIP.YCxnS_5txtkdvzbwQgeibAHaEK?w=321&h=180&c=7&r=0&o=5&pid=1.7" /> <img width="100" height="60" src="https://th.bing.com/th/id/OIP.7RiJviwFAo_3TWYI-AyiowHaEK?w=286&h=180&c=7&r=0&o=5&pid=1.7" />
 - 🌱 Potentiellement le prochain langage que j'aimerai découvrir ! <img width="100" height="60" src="https://nclab.com/wp-content/media/2017/06/course-python-ii@2x-1024x642.jpg" />.  
 
 ## Langages, outils et statistiques:
