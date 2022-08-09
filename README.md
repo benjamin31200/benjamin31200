@@ -1,7 +1,7 @@
 https://user-images.githubusercontent.com/90443700/155125845-4e31e490-105c-43e7-a349-406bc774dd3f.mp4
 
 # Bienvenue👋
-***Bonne visite !***
+***Bonne visite !*** <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 # Mon profil
 ***Développeur web*** 
