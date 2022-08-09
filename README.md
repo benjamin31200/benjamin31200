@@ -2,7 +2,7 @@
   <img src = "https://media.giphy.com/media/ho1ZqAYrP4VUS8uexc/giphy.gif" width = 600 height="350">
 </p>
 
-# Bienvenu👋
+# Welcome👋
 ***Bonne visite !*** <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 Développeur Web/Alumni wilders ➡️ Toulouse (09/2021 - 02/2022). [Wild Code School](https://github.com/WildCodeSchool)
