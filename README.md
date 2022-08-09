@@ -14,11 +14,15 @@ alumni wilders ➡️ Toulouse (09/2021 - 02/2022). [Wild Code School](https://g
 
 ## Mes Langages, outils et statistiques:
 
- <img width="50" height="40" src="https://th.bing.com/th/id/R.adbac78231c9a2ff5c21aaa32dd4e1e4?rik=jWTUkOKwKIk7jg&riu=http%3a%2f%2flofrev.net%2fwp-content%2fphotos%2f2017%2f05%2fphp_emblem.png&ehk=gbX0plW%2fbqAeSR4cWmkL44R%2bUWxCpG3CL%2b2V4KHQlpQ%3d&risl=&pid=ImgRaw&r=0" /> <img width="50" height="55" src="https://th.bing.com/th/id/OIP.1YrkOl7oyjSahqVe5bs7sgHaI6?pid=ImgDet&rs=1" />
- <img width="70" height="55" src="https://th.bing.com/th/id/OIP.IvXPrJ-HCXl4NX0tjFejwgAAAA?pid=ImgDet&rs=1" />
- <img width="55" height="55" src="https://th.bing.com/th/id/R.35fde9e2f21022536029356e95c86faa?rik=tKrXgn2dvVJqAw&riu=http%3a%2f%2fpluspng.com%2fimg-png%2flogo-javascript-png-javascript-ile-twitter-retweet-uygulamas-833.png&ehk=EYrDqaaPfX6%2fHeLEOTnVTnshumwnFWj06e8qHpLVHko%3d&risl=&pid=ImgRaw&r=0" />
- <img width="55" height="55" src="https://assets.uigarage.net/content/uploads/2018/12/figma-logo.png" />
- <img width="55" height="55" src="https://crackedroot.com/wp-content/uploads/2018/10/4-2.jpg" />
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
  
 ***
 
