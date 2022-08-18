@@ -9,7 +9,7 @@ Développeur Web/Alumni wilders ➡️ Toulouse (09/2021 - 02/2022). [Wild Code 
 
  ***
  
-- 🔭 Actuellement en pleine autodidaxie sur React, nodeJS et express 
+- 🔭 Actuellement en autodidaxie sur React, nodeJS et express 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 - 🌱 Le prochain langage que j'aimerai découvrir  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)  
