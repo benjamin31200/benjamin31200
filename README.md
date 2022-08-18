@@ -36,7 +36,7 @@ Développeur Web/Alumni wilders ➡️ Toulouse (09/2021 - 02/2022). [Wild Code 
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=benjamin31200&theme=dark&hide_border=true" width = 400>
 </p>
 
-## Mes projets, repositories :
+## Mes projets :
 
  <a href="https://github.com/benjamin31200/script_Shell">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin31200&repo=launch-script-shell&theme=buefy" />
